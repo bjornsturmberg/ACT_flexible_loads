@@ -1,0 +1,6 @@
+ipympl
+numpy
+pandas
+matplotlib
+jupyter
+plotly
