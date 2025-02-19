@@ -1,0 +1,447 @@
+Belconnen  solar  High EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1427.0  MWh
+Future substation utilisation =  39.6  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 103.8 MW
+Future threshold of 0.9 POE = 154.2 MW
+Future max peak = 175.5 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 577.6 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Tuggeranong  solar  High EV home  High
+Current total energy delivered =  1282.0  MWh
+Current substation utilisation =  34.2  %
+Future total energy delivered =  760.0  MWh
+Future substation utilisation =  20.3  %
+Current max peak = 123.0 MW
+Current threshold of 0.9 POE = 84.5 MW
+Future threshold of 0.9 POE = 104.5 MW
+Future max peak = 121.5 MW
+Future HW demand = 96.6 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 484.9 MWh/day
+Current households = 36.5 k
+Future households = 35.9 k
+
+ Gungahlin  solar  High EV home  High
+Current total energy delivered =  706.0  MWh
+Current substation utilisation =  51.6  %
+Future total energy delivered =  1033.0  MWh
+Future substation utilisation =  75.5  %
+Current max peak = 88.3 MW
+Current threshold of 0.9 POE = 50.9 MW
+Future threshold of 0.9 POE = 97.4 MW
+Future max peak = 121.7 MW
+Future HW demand = 109.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 492.6 MWh/day
+Current households = 30.2 k
+Future households = 40.5 k
+
+ Woden Valley  solar  High EV home  High
+Current total energy delivered =  695.0  MWh
+Current substation utilisation =  37.0  %
+Future total energy delivered =  501.0  MWh
+Future substation utilisation =  26.7  %
+Current max peak = 68.3 MW
+Current threshold of 0.9 POE = 52.7 MW
+Future threshold of 0.9 POE = 62.6 MW
+Future max peak = 74.4 MW
+Future HW demand = 61.4 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 213.9 MWh/day
+Current households = 20.3 k
+Future households = 22.8 k
+
+ Canberra East  solar  High EV home  High
+Current total energy delivered =  155.0  MWh
+Current substation utilisation =  12.9  %
+Future total energy delivered =  -99.0  MWh
+Future substation utilisation =  -8.3  %
+Current max peak = 14.5 MW
+Current threshold of 0.9 POE = 12.0 MW
+Future threshold of 0.9 POE = 14.4 MW
+Future max peak = 16.0 MW
+Future HW demand = 0.5 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 10.1 MWh/day
+Current households = 0.2 k
+Future households = 0.2 k
+
+ South Canberra  solar  High EV home  High
+Current total energy delivered =  999.0  MWh
+Current substation utilisation =  41.6  %
+Future total energy delivered =  935.0  MWh
+Future substation utilisation =  39.0  %
+Current max peak = 79.5 MW
+Current threshold of 0.9 POE = 62.9 MW
+Future threshold of 0.9 POE = 91.7 MW
+Future max peak = 106.7 MW
+Future HW demand = 55.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 175.1 MWh/day
+Current households = 14.9 k
+Future households = 20.5 k
+
+ North Canberra  solar  High EV home  High
+Current total energy delivered =  1637.0  MWh
+Current substation utilisation =  33.3  %
+Future total energy delivered =  1862.0  MWh
+Future substation utilisation =  37.8  %
+Current max peak = 128.9 MW
+Current threshold of 0.9 POE = 106.0 MW
+Future threshold of 0.9 POE = 180.5 MW
+Future max peak = 208.6 MW
+Future HW demand = 143.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 338.2 MWh/day
+Current households = 31.2 k
+Future households = 53.2 k
+
+ Belconnen  solar  High EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1369.0  MWh
+Future substation utilisation =  38.0  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 103.8 MW
+Future threshold of 0.9 POE = 151.0 MW
+Future max peak = 175.5 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 577.6 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Tuggeranong  solar  High EV home  Low
+Current total energy delivered =  1282.0  MWh
+Current substation utilisation =  34.2  %
+Future total energy delivered =  711.0  MWh
+Future substation utilisation =  19.0  %
+Current max peak = 123.0 MW
+Current threshold of 0.9 POE = 84.5 MW
+Future threshold of 0.9 POE = 101.4 MW
+Future max peak = 118.8 MW
+Future HW demand = 96.6 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 484.9 MWh/day
+Current households = 36.5 k
+Future households = 35.9 k
+
+ Gungahlin  solar  High EV home  Low
+Current total energy delivered =  706.0  MWh
+Current substation utilisation =  51.6  %
+Future total energy delivered =  983.0  MWh
+Future substation utilisation =  71.9  %
+Current max peak = 88.3 MW
+Current threshold of 0.9 POE = 50.9 MW
+Future threshold of 0.9 POE = 95.2 MW
+Future max peak = 118.9 MW
+Future HW demand = 109.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 492.6 MWh/day
+Current households = 30.2 k
+Future households = 40.5 k
+
+ Woden Valley  solar  High EV home  Low
+Current total energy delivered =  695.0  MWh
+Current substation utilisation =  37.0  %
+Future total energy delivered =  480.0  MWh
+Future substation utilisation =  25.5  %
+Current max peak = 68.3 MW
+Current threshold of 0.9 POE = 52.7 MW
+Future threshold of 0.9 POE = 62.5 MW
+Future max peak = 73.2 MW
+Future HW demand = 61.4 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 213.9 MWh/day
+Current households = 20.3 k
+Future households = 22.8 k
+
+ Canberra East  solar  High EV home  Low
+Current total energy delivered =  155.0  MWh
+Current substation utilisation =  12.9  %
+Future total energy delivered =  -100.0  MWh
+Future substation utilisation =  -8.4  %
+Current max peak = 14.5 MW
+Current threshold of 0.9 POE = 12.0 MW
+Future threshold of 0.9 POE = 14.4 MW
+Future max peak = 16.0 MW
+Future HW demand = 0.5 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 10.1 MWh/day
+Current households = 0.2 k
+Future households = 0.2 k
+
+ South Canberra  solar  High EV home  Low
+Current total energy delivered =  999.0  MWh
+Current substation utilisation =  41.6  %
+Future total energy delivered =  918.0  MWh
+Future substation utilisation =  38.2  %
+Current max peak = 79.5 MW
+Current threshold of 0.9 POE = 62.9 MW
+Future threshold of 0.9 POE = 91.2 MW
+Future max peak = 105.7 MW
+Future HW demand = 55.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 175.1 MWh/day
+Current households = 14.9 k
+Future households = 20.5 k
+
+ North Canberra  solar  High EV home  Low
+Current total energy delivered =  1637.0  MWh
+Current substation utilisation =  33.3  %
+Future total energy delivered =  1828.0  MWh
+Future substation utilisation =  37.2  %
+Current max peak = 128.9 MW
+Current threshold of 0.9 POE = 106.0 MW
+Future threshold of 0.9 POE = 180.0 MW
+Future max peak = 208.6 MW
+Future HW demand = 143.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 338.2 MWh/day
+Current households = 31.2 k
+Future households = 53.2 k
+
+ Belconnen  solar  Low EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1847.0  MWh
+Future substation utilisation =  51.3  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 87.7 MW
+Future threshold of 0.9 POE = 157.8 MW
+Future max peak = 184.5 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 577.6 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Tuggeranong  solar  Low EV home  High
+Current total energy delivered =  1282.0  MWh
+Current substation utilisation =  34.2  %
+Future total energy delivered =  1196.0  MWh
+Future substation utilisation =  32.0  %
+Current max peak = 123.0 MW
+Current threshold of 0.9 POE = 84.5 MW
+Future threshold of 0.9 POE = 108.1 MW
+Future max peak = 128.9 MW
+Future HW demand = 96.6 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 484.9 MWh/day
+Current households = 36.5 k
+Future households = 35.9 k
+
+ Gungahlin  solar  Low EV home  High
+Current total energy delivered =  706.0  MWh
+Current substation utilisation =  51.6  %
+Future total energy delivered =  1192.0  MWh
+Future substation utilisation =  87.1  %
+Current max peak = 88.3 MW
+Current threshold of 0.9 POE = 50.9 MW
+Future threshold of 0.9 POE = 100.0 MW
+Future max peak = 127.2 MW
+Future HW demand = 109.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 492.6 MWh/day
+Current households = 30.2 k
+Future households = 40.5 k
+
+ Woden Valley  solar  Low EV home  High
+Current total energy delivered =  695.0  MWh
+Current substation utilisation =  37.0  %
+Future total energy delivered =  721.0  MWh
+Future substation utilisation =  38.3  %
+Current max peak = 68.3 MW
+Current threshold of 0.9 POE = 52.7 MW
+Future threshold of 0.9 POE = 65.9 MW
+Future max peak = 78.1 MW
+Future HW demand = 61.4 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 213.9 MWh/day
+Current households = 20.3 k
+Future households = 22.8 k
+
+ Canberra East  solar  Low EV home  High
+Current total energy delivered =  155.0  MWh
+Current substation utilisation =  12.9  %
+Future total energy delivered =  41.0  MWh
+Future substation utilisation =  3.4  %
+Current max peak = 14.5 MW
+Current threshold of 0.9 POE = 12.1 MW
+Future threshold of 0.9 POE = 14.5 MW
+Future max peak = 16.2 MW
+Future HW demand = 0.5 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 10.1 MWh/day
+Current households = 0.2 k
+Future households = 0.2 k
+
+ South Canberra  solar  Low EV home  High
+Current total energy delivered =  999.0  MWh
+Current substation utilisation =  41.6  %
+Future total energy delivered =  1215.0  MWh
+Future substation utilisation =  50.6  %
+Current max peak = 79.5 MW
+Current threshold of 0.9 POE = 62.9 MW
+Future threshold of 0.9 POE = 93.8 MW
+Future max peak = 108.6 MW
+Future HW demand = 55.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 175.1 MWh/day
+Current households = 14.9 k
+Future households = 20.5 k
+
+ North Canberra  solar  Low EV home  High
+Current total energy delivered =  1637.0  MWh
+Current substation utilisation =  33.3  %
+Future total energy delivered =  2436.0  MWh
+Future substation utilisation =  49.5  %
+Current max peak = 128.9 MW
+Current threshold of 0.9 POE = 94.4 MW
+Future threshold of 0.9 POE = 184.7 MW
+Future max peak = 213.1 MW
+Future HW demand = 143.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 338.2 MWh/day
+Current households = 31.2 k
+Future households = 53.2 k
+
+ Belconnen  solar  Low EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1789.0  MWh
+Future substation utilisation =  49.7  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 87.7 MW
+Future threshold of 0.9 POE = 155.3 MW
+Future max peak = 181.2 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 577.6 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Tuggeranong  solar  Low EV home  Low
+Current total energy delivered =  1282.0  MWh
+Current substation utilisation =  34.2  %
+Future total energy delivered =  1148.0  MWh
+Future substation utilisation =  30.7  %
+Current max peak = 123.0 MW
+Current threshold of 0.9 POE = 84.5 MW
+Future threshold of 0.9 POE = 105.0 MW
+Future max peak = 126.1 MW
+Future HW demand = 96.6 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 484.9 MWh/day
+Current households = 36.5 k
+Future households = 35.9 k
+
+ Gungahlin  solar  Low EV home  Low
+Current total energy delivered =  706.0  MWh
+Current substation utilisation =  51.6  %
+Future total energy delivered =  1143.0  MWh
+Future substation utilisation =  83.5  %
+Current max peak = 88.3 MW
+Current threshold of 0.9 POE = 50.9 MW
+Future threshold of 0.9 POE = 97.2 MW
+Future max peak = 124.4 MW
+Future HW demand = 109.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 492.6 MWh/day
+Current households = 30.2 k
+Future households = 40.5 k
+
+ Woden Valley  solar  Low EV home  Low
+Current total energy delivered =  695.0  MWh
+Current substation utilisation =  37.0  %
+Future total energy delivered =  699.0  MWh
+Future substation utilisation =  37.2  %
+Current max peak = 68.3 MW
+Current threshold of 0.9 POE = 52.7 MW
+Future threshold of 0.9 POE = 64.7 MW
+Future max peak = 76.9 MW
+Future HW demand = 61.4 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 213.9 MWh/day
+Current households = 20.3 k
+Future households = 22.8 k
+
+ Canberra East  solar  Low EV home  Low
+Current total energy delivered =  155.0  MWh
+Current substation utilisation =  12.9  %
+Future total energy delivered =  40.0  MWh
+Future substation utilisation =  3.3  %
+Current max peak = 14.5 MW
+Current threshold of 0.9 POE = 12.1 MW
+Future threshold of 0.9 POE = 14.5 MW
+Future max peak = 16.2 MW
+Future HW demand = 0.5 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 10.1 MWh/day
+Current households = 0.2 k
+Future households = 0.2 k
+
+ South Canberra  solar  Low EV home  Low
+Current total energy delivered =  999.0  MWh
+Current substation utilisation =  41.6  %
+Future total energy delivered =  1198.0  MWh
+Future substation utilisation =  49.9  %
+Current max peak = 79.5 MW
+Current threshold of 0.9 POE = 62.9 MW
+Future threshold of 0.9 POE = 93.2 MW
+Future max peak = 107.6 MW
+Future HW demand = 55.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 175.1 MWh/day
+Current households = 14.9 k
+Future households = 20.5 k
+
+ North Canberra  solar  Low EV home  Low
+Current total energy delivered =  1637.0  MWh
+Current substation utilisation =  33.3  %
+Future total energy delivered =  2402.0  MWh
+Future substation utilisation =  48.8  %
+Current max peak = 128.9 MW
+Current threshold of 0.9 POE = 106.0 MW
+Future threshold of 0.9 POE = 184.0 MW
+Future max peak = 211.2 MW
+Future HW demand = 143.3 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 338.2 MWh/day
+Current households = 31.2 k
+Future households = 53.2 k
