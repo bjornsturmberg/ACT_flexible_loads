@@ -1,0 +1,151 @@
+# Home split day night
+home_day_ratio = 0.3
+
+
+Belconnen  solar  High EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1375.0  MWh
+Future substation utilisation =  38.2  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 105.0 MW
+Future threshold of 0.9 POE = 162.1 MW
+Future max peak = 182.1 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 519.9 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Belconnen  solar  High EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1276.0  MWh
+Future substation utilisation =  35.5  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 150.8 MW
+Future max peak = 174.7 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 462.1 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+
+# Home split day night
+home_day_ratio = 0.7
+
+Belconnen  solar  High EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1375.0  MWh
+Future substation utilisation =  38.2  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 103.8 MW
+Future threshold of 0.9 POE = 150.1 MW
+Future max peak = 175.1 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 519.9 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+ Belconnen  solar  High EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  36.7  %
+Future total energy delivered =  1276.0  MWh
+Future substation utilisation =  35.5  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 148.2 MW
+Future max peak = 174.7 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 462.1 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+
+
+
+# Home split day night
+home_day_ratio = 0.5
+
+ Belconnen  solar  High EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  32.6  %
+Future total energy delivered =  1263.0  MWh
+Future substation utilisation =  31.1  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 154.2 MW
+Future max peak = 175.1 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 519.9 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+Future solar = 0    998.4
+dtype: float64 MWh/day
+Belconnen 169
+
+ Belconnen  solar  High EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  32.6  %
+Future total energy delivered =  1165.0  MWh
+Future substation utilisation =  28.7  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 148.3 MW
+Future max peak = 174.7 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 462.1 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+Future solar = 0    998.4
+dtype: float64 MWh/day
+Belconnen 169
+
+ Belconnen  solar  Low EV home  High
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  32.6  %
+Future total energy delivered =  1736.0  MWh
+Future substation utilisation =  42.8  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 154.7 MW
+Future max peak = 175.2 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 519.9 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+Future solar = 0    523.9
+dtype: float64 MWh/day
+Belconnen 169
+
+ Belconnen  solar  Low EV home  Low
+Current total energy delivered =  1321.0  MWh
+Current substation utilisation =  32.6  %
+Future total energy delivered =  1638.0  MWh
+Future substation utilisation =  40.4  %
+Current max peak = 133.8 MW
+Current threshold of 0.9 POE = 106.9 MW
+Future threshold of 0.9 POE = 148.6 MW
+Future max peak = 174.9 MW
+Future HW demand = 144.0 MWh/day
+Future HW demand = 2.7 kWh/household/day
+Future HW demand = 673596.4 MWh for 250,000 households/day
+Future EV demand = 462.1 MWh/day
+Current households = 38.8 k
+Future households = 53.5 k
+Future solar = 0    523.9
+dtype: float64 MWh/day
